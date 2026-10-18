@@ -31,7 +31,7 @@ names and architectural plans must not be treated as available APIs.
 central project and the entry point for the ecosystem.
 
 - [EmberBSD](https://github.com/oxtech-ember/EmberBSD) — OS, drivers, boards and system builds.
-- [EmberBSD-SDK](https://github.com/oxtech-ember/EmberBSD-SDK) — application interfaces, package contracts and development tools; design stage.
+- [EmberBSD-SDK](https://github.com/oxtech-ember/EmberBSD-SDK) — Prebuild SDK workspace and sysroot tools; application and package contracts remain planned.
 - [EmberBSD-Ports](https://github.com/oxtech-ember/EmberBSD-Ports) — third-party recipes, patches and native dependencies.
 - [EmberBSD-Examples](https://github.com/oxtech-ember/EmberBSD-Examples) — standalone applications and reproducible demonstrations.
 - [Ember-Agent-Skills](https://github.com/oxtech-ember/Ember-Agent-Skills) — portable developer skills for AI coding assistants and tested contributions.
